@@ -6,6 +6,8 @@ const Gift = () => {
             <div className="heart">
 
             </div>
+
+            <h2>Xem Phim ít thôi</h2>
         </div>
     );
 }
